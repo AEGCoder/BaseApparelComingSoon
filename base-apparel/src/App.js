@@ -20,8 +20,8 @@ function App() {
         </form>
          </div>
       </div>
-      <div className="md:w-[50%] w-[95%]">
-        <img src="./images/hero-desktop.jpg" alt="hero" className="w-full h-full object-fill rounded-md" />
+      <div className="md:w-[50%] w-[95%] h-full">
+        <img src="./images/hero-desktop.jpg" alt="hero" className="w-full h-full object-fill" />
       </div>
     </div>
   );
